@@ -1,2 +1,3 @@
 # Word_Finder
- Python functions to find English words based on any order of letters. 
+
+Word Finder is a collection of Python functions that will find words created from letters entered. 
